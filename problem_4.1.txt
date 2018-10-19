@@ -1,0 +1,21 @@
+PROBLEM : 1 
+CHAPTER : 4
+
+BOOK: JAVA PROGRAMMING FROM THE BEGINNING 
+
+
+Make the following changes to the CourseAverage program(
+section 2.11)
+
+(a) Have the user enter six quiz scores instead of five.
+the revised program should drop the lowest when computing
+the quiz average. Each time the user enters a new score, use
+an if statement to compare it with the lowest score so far;
+if the new score is lower, assign it to the "lowest score"
+variable. After all the quiz scores have been read, subtract
+the lowest score from the total. Extra credit: Write the
+program without using an if statement. (Hint: use Math.min
+mehtod)
+
+(b) Use a loop to read and calculate the program total and
+quiz total.
